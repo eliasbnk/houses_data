@@ -1,0 +1,56 @@
+{
+    "county_averages": [
+        {
+            "Newport_County_averages": {
+                "avg_price": 1493777.78,
+                "beds": 3,
+                "baths": 2,
+                "avg_sqft": 1969.56,
+                "avg_monthly_payment": 10960.81
+            }
+        },
+        {
+            "Providence_County_averages": {
+                "avg_price": 527342.42,
+                "beds": 3,
+                "baths": 2,
+                "avg_sqft": 1881.12,
+                "avg_monthly_payment": 3869.45
+            }
+        },
+        {
+            "Kent_County_averages": {
+                "avg_price": 575182.61,
+                "beds": 3,
+                "baths": 2,
+                "avg_sqft": 1978.52,
+                "avg_monthly_payment": 4220.49
+            }
+        },
+        {
+            "Washington_County_averages": {
+                "avg_price": 818928.92,
+                "beds": 3,
+                "baths": 2,
+                "avg_sqft": 1839.95,
+                "avg_monthly_payment": 6009.01
+            }
+        },
+        {
+            "Bristol_County_averages": {
+                "avg_price": 560375.0,
+                "beds": 3,
+                "baths": 2,
+                "avg_sqft": 1577.5,
+                "avg_monthly_payment": 4111.83
+            }
+        }
+    ],
+    "ri_statewide_averages": {
+        "avg_price": 717818.01,
+        "beds": 3,
+        "baths": 2,
+        "avg_sqft": 1872.5,
+        "avg_monthly_payment": 5267.09
+    }
+}
