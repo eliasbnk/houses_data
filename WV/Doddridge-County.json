@@ -1,0 +1,23 @@
+[
+    {
+        "price": "$218,500",
+        "beds": "2 beds",
+        "baths": "1 bath",
+        "sqft": "1,349 sq ft",
+        "lotsize": "8.67 acres (lot)"
+    },
+    {
+        "price": "$25,000",
+        "beds": "2 beds",
+        "baths": "1 bath",
+        "sqft": "784 sq ft",
+        "lotsize": "0.23 acre (lot)"
+    },
+    {
+        "price": "$40,000",
+        "beds": "4 beds",
+        "baths": "1 bath",
+        "sqft": "892 sq ft",
+        "lotsize": "0.50 acre (lot)"
+    }
+]
