@@ -1,0 +1,338 @@
+[
+    {
+        "price": "$140,000",
+        "beds": "3 beds",
+        "baths": "2.5 baths",
+        "sqft": "1,744 sq ft",
+        "lotsize": "5,663 sq ft (lot)"
+    },
+    {
+        "price": "$250,000",
+        "beds": "3 beds",
+        "baths": "2 baths",
+        "sqft": "1,812 sq ft",
+        "lotsize": "9,148 sq ft (lot)"
+    },
+    {
+        "price": "$595,000",
+        "beds": "3 beds",
+        "baths": "2 baths",
+        "sqft": "3,080 sq ft",
+        "lotsize": "4.49 acres (lot)"
+    },
+    {
+        "price": "$420,000",
+        "beds": "3 beds",
+        "baths": "2 baths",
+        "sqft": "2,054 sq ft",
+        "lotsize": "1.69 acres (lot)"
+    },
+    {
+        "price": "$235,000",
+        "beds": "2 beds",
+        "baths": "1 bath",
+        "sqft": "624 sq ft",
+        "lotsize": "7,841 sq ft (lot)"
+    },
+    {
+        "price": "$599,000",
+        "beds": "5 beds",
+        "baths": "3 baths",
+        "sqft": "3,139 sq ft",
+        "lotsize": "4.40 acres (lot)"
+    },
+    {
+        "price": "$250,000",
+        "beds": "5 beds",
+        "baths": "2 baths",
+        "sqft": "1,955 sq ft",
+        "lotsize": "6,098 sq ft (lot)"
+    },
+    {
+        "price": "$310,000",
+        "beds": "3 beds",
+        "baths": "2 baths",
+        "sqft": "2,542 sq ft",
+        "lotsize": "6,534 sq ft (lot)"
+    },
+    {
+        "price": "$297,500",
+        "beds": "5 beds",
+        "baths": "3 baths",
+        "sqft": "3,470 sq ft",
+        "lotsize": "0.25 acre (lot)"
+    },
+    {
+        "price": "$539,000",
+        "beds": "4 beds",
+        "baths": "2.5 baths",
+        "sqft": "3,124 sq ft",
+        "lotsize": "0.37 acre (lot)"
+    },
+    {
+        "price": "$599,000",
+        "beds": "3 beds",
+        "baths": "3 baths",
+        "sqft": "3,368 sq ft",
+        "lotsize": "12.18 acres (lot)"
+    },
+    {
+        "price": "$389,500",
+        "beds": "3 beds",
+        "baths": "2.5 baths",
+        "sqft": "1,747 sq ft",
+        "lotsize": "0.23 acre (lot)"
+    },
+    {
+        "price": "$630,000",
+        "beds": "2 beds",
+        "baths": "2 baths",
+        "sqft": "3,726 sq ft",
+        "lotsize": "0.55 acre (lot)"
+    },
+    {
+        "price": "$309,000",
+        "beds": "2 beds",
+        "baths": "2 baths",
+        "sqft": "1,320 sq ft",
+        "lotsize": ""
+    },
+    {
+        "price": "$465,000",
+        "beds": "3 beds",
+        "baths": "2.75 baths",
+        "sqft": "2,430 sq ft",
+        "lotsize": "0.65 acre (lot)"
+    },
+    {
+        "price": "$559,900",
+        "beds": "4 beds",
+        "baths": "3 baths",
+        "sqft": "2,960 sq ft",
+        "lotsize": "2.00 acres (lot)"
+    },
+    {
+        "price": "$599,900",
+        "beds": "5 beds",
+        "baths": "3.5 baths",
+        "sqft": "3,890 sq ft",
+        "lotsize": "0.26 acre (lot)"
+    },
+    {
+        "price": "$229,000",
+        "beds": "3 beds",
+        "baths": "1 bath",
+        "sqft": "1,728 sq ft",
+        "lotsize": "8,276 sq ft (lot)"
+    },
+    {
+        "price": "$400,000",
+        "beds": "3 beds",
+        "baths": "1 bath",
+        "sqft": "1,063 sq ft",
+        "lotsize": "0.48 acre (lot)"
+    },
+    {
+        "price": "$299,500",
+        "beds": "3 beds",
+        "baths": "2 baths",
+        "sqft": "1,824 sq ft",
+        "lotsize": "0.36 acre (lot)"
+    },
+    {
+        "price": "$175,000",
+        "beds": "3 beds",
+        "baths": "1 bath",
+        "sqft": "988 sq ft",
+        "lotsize": "8,276 sq ft (lot)"
+    },
+    {
+        "price": "$342,000",
+        "beds": "4 beds",
+        "baths": "2.75 baths",
+        "sqft": "3,660 sq ft",
+        "lotsize": "0.29 acre (lot)"
+    },
+    {
+        "price": "$425,000",
+        "beds": "5 beds",
+        "baths": "3 baths",
+        "sqft": "3,008 sq ft",
+        "lotsize": "0.24 acre (lot)"
+    },
+    {
+        "price": "$180,000",
+        "beds": "2 beds",
+        "baths": "1 bath",
+        "sqft": "870 sq ft",
+        "lotsize": "9,583 sq ft (lot)"
+    },
+    {
+        "price": "$298,000",
+        "beds": "2 beds",
+        "baths": "1 bath",
+        "sqft": "288 sq ft",
+        "lotsize": "2.29 acres (lot)"
+    },
+    {
+        "price": "$950,000",
+        "beds": "4 beds",
+        "baths": "3.5 baths",
+        "sqft": "3,775 sq ft",
+        "lotsize": "4.00 acres (lot)"
+    },
+    {
+        "price": "$315,000",
+        "beds": "5 beds",
+        "baths": "2 baths",
+        "sqft": "2,952 sq ft",
+        "lotsize": "8,276 sq ft (lot)"
+    },
+    {
+        "price": "$589,000",
+        "beds": "3 beds",
+        "baths": "1.75 baths",
+        "sqft": "2,778 sq ft",
+        "lotsize": "1.51 acres (lot)"
+    },
+    {
+        "price": "$450,000",
+        "beds": "4 beds",
+        "baths": "2 baths",
+        "sqft": "1,944 sq ft",
+        "lotsize": "2.50 acres (lot)"
+    },
+    {
+        "price": "$595,000",
+        "beds": "3 beds",
+        "baths": "2.5 baths",
+        "sqft": "3,476 sq ft",
+        "lotsize": "13.67 acres (lot)"
+    },
+    {
+        "price": "$219,900",
+        "beds": "4 beds",
+        "baths": "1.75 baths",
+        "sqft": "3,084 sq ft",
+        "lotsize": "8,276 sq ft (lot)"
+    },
+    {
+        "price": "$229,000",
+        "beds": "3 beds",
+        "baths": "1.5 baths",
+        "sqft": "1,606 sq ft",
+        "lotsize": "0.23 acre (lot)"
+    },
+    {
+        "price": "$201,600",
+        "beds": "4 beds",
+        "baths": "2.5 baths",
+        "sqft": "1,761 sq ft",
+        "lotsize": "8,276 sq ft (lot)"
+    },
+    {
+        "price": "$289,000",
+        "beds": "3 beds",
+        "baths": "2 baths",
+        "sqft": "1,891 sq ft",
+        "lotsize": "10.08 acres (lot)"
+    },
+    {
+        "price": "$350,000",
+        "beds": "1 bed",
+        "baths": "1 bath",
+        "sqft": "576 sq ft",
+        "lotsize": "2.18 acres (lot)"
+    },
+    {
+        "price": "$331,000",
+        "beds": "4 beds",
+        "baths": "3 baths",
+        "sqft": "2,248 sq ft",
+        "lotsize": "40.00 acres (lot)"
+    },
+    {
+        "price": "$162,000",
+        "beds": "2 beds",
+        "baths": "1 bath",
+        "sqft": "1,140 sq ft",
+        "lotsize": "4,792 sq ft (lot)"
+    },
+    {
+        "price": "$364,900",
+        "beds": "4 beds",
+        "baths": "2 baths",
+        "sqft": "1,980 sq ft",
+        "lotsize": "0.24 acre (lot)"
+    },
+    {
+        "price": "$250,000",
+        "beds": "2 beds",
+        "baths": "1 bath",
+        "sqft": "1,164 sq ft",
+        "lotsize": "0.28 acre (lot)"
+    },
+    {
+        "price": "$519,500",
+        "beds": "3 beds",
+        "baths": "2.5 baths",
+        "sqft": "1,699 sq ft",
+        "lotsize": "0.41 acre (lot)"
+    },
+    {
+        "price": "$518,000",
+        "beds": "5 beds",
+        "baths": "3.5 baths",
+        "sqft": "4,304 sq ft",
+        "lotsize": "0.69 acre (lot)"
+    },
+    {
+        "price": "$539,500",
+        "beds": "3 beds",
+        "baths": "2 baths",
+        "sqft": "1,725 sq ft",
+        "lotsize": "0.50 acre (lot)"
+    },
+    {
+        "price": "$295,000",
+        "beds": "4 beds",
+        "baths": "1.75 baths",
+        "sqft": "1,880 sq ft",
+        "lotsize": "5.00 acres (lot)"
+    },
+    {
+        "price": "$350,000",
+        "beds": "3 beds",
+        "baths": "2.5 baths",
+        "sqft": "2,654 sq ft",
+        "lotsize": "9,148 sq ft (lot)"
+    },
+    {
+        "price": "$599,000",
+        "beds": "3 beds",
+        "baths": "1 bath",
+        "sqft": "3,904 sq ft",
+        "lotsize": "39.00 acres (lot)"
+    },
+    {
+        "price": "$210,000",
+        "beds": "2 beds",
+        "baths": "2 baths",
+        "sqft": "920 sq ft",
+        "lotsize": "6,970 sq ft (lot)"
+    },
+    {
+        "price": "$850,000",
+        "beds": "5 beds",
+        "baths": "3.5 baths",
+        "sqft": "4,666 sq ft",
+        "lotsize": "80.00 acres (lot)"
+    },
+    {
+        "price": "$545,900",
+        "beds": "5 beds",
+        "baths": "3.5 baths",
+        "sqft": "4,392 sq ft",
+        "lotsize": "0.48 acre (lot)"
+    }
+]
